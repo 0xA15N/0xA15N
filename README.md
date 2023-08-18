@@ -14,8 +14,8 @@
 <a href="https://tiktok.com/0xMelz"><img align=”left” alt="Tiktok" width="30"src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Tik%20Tok.svg"</a>
 <a href="https://www.github.com/0xMelz"><img align=”left” alt="Github" width="30"src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Github.svg"</a>
 <a href="https://discord.gg/scheze"><img align=”left” alt="Discord" width="30"src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Discord.svg"</a>
+<a href="https://www.instagram.com/a.amldn"><img align=”left” alt="Instagram" width="30"src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg"</a>
 
-  
 - 🔭 Now I'm studying at [Bina Sarana Informatika](Bsi.today)
 
 - 🌱 I’m currently learning **Backend and API's**
